@@ -8,17 +8,21 @@ body{
 #header {
     background-color: white;
     padding: 0 30px;
-    margin: 0 30PX;
+    margin:  30PX;
+    margin-top: 50px;
 }
 
 #header-content {
     text-align: center;
+    font-size: 30px;
+    letter-spacing: 4px;
 }
 
 #header-content h1{
     background-color: #bc105c;
     color: white;
     padding: 10px;
+    margin: 0 -25px;
 }
 
 #main {
