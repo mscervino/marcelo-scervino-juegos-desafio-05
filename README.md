@@ -2,7 +2,7 @@
 
 ## Repositorio Git: https://github.com/mscervino/marcelo-scervino-juegos-desafio-05
 
-## netlify: 
+## netlify: https://wonderful-churros-92ca71.netlify.app
 
 ## Marcelo Gustavo Scervino
 ## 71350 - Bootcamp Full Stack Engineer
