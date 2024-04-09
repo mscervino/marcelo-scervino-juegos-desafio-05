@@ -177,3 +177,7 @@ body{
     cursor: pointer;
     border-radius: 5px;
 }
+
+a.enlace:link{
+    background-color: blue;
+}
