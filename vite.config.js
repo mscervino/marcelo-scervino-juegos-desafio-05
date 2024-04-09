@@ -10,7 +10,7 @@ export default {
         rollupOptions: {
             input: {
                 comprar: resolve('pages/comprar.html'),
-                index: resolve('index.html'),
+                index: resolve('index.html')
             }
         }
     }
