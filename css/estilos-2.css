@@ -114,3 +114,78 @@ h1 {
     font-weight: 900;
     font-style: normal;
   }
+
+.blue-text {
+    color: blue;
+}
+
+.main-article H3{
+    color: #9c0037;
+}
+
+.section-comprar {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.section-comprar img{
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.section-comprar-otros {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 50px 20px 50px;    
+    border-radius: 5px;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    width: calc(25% - 10px);
+    margin: 5px;
+}
+.additional-content {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.additional-content h4 {
+    margin-top: 0;
+    text-align: center;
+    
+}
+
+.additional-content button {
+    padding: 10px 20px;
+    background-color: #2c8f20;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.text-left-comprar button{
+    padding: 10px 20px;
+    background-color: #2c8f20;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
